@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://briliant2709.users.earthengine.app/view/NAMA-APP"><b>🌐 Buka WebGIS</b></a>
+  <a href="https://briliant2709.users.earthengine.app/view/webgis-persebaran-kekeringan-di-kabupaten-sleman"><b>🌐 Buka WebGIS</b></a>
 </p>
 
 ---
