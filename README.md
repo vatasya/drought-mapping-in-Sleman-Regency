@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Logo WebGIS Kekeringan Kabupaten Sleman" width="520">
-</p>
 
 <h1 align="center">WebGIS Tingkat Kekeringan Lahan Kabupaten Sleman</h1>
 
